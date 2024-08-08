@@ -1,6 +1,6 @@
 # 100xDevs Web3 Development Cohort 🌐⛓️
 
-Welcome to my **100xDevs Web3 Development** repository! This repo showcases all the projects, code, and assignments I've completed as part of the **100xDevs Web3 Development Cohort** led by [Harkirat Singh](https://github.com/harkiratSingh).
+Welcome to my **100xDevs Web3 Development** repository! This repo showcases all the projects, code, and assignments I've completed as part of the **100xDevs Web3 Development Cohort** led by [Harkirat Singh].
 
 ## What's Inside 📂
 
